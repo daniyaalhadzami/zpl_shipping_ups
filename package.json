@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/typefoo/node-shipping-ups"
+    "url": "https://github.com/daniyaalhadzami/zpl_shipping_ups"
   },
   "main": "./lib/index.js",
   "directories": {},
