@@ -2,7 +2,7 @@
 
 ## Install
 
-`npm install shipping-ups`
+`npm install zpl-shipping-ups`
 
 ## Usage
 
